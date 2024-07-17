@@ -1,0 +1,34 @@
+{
+	"poki_template_version": 1,
+	"extra_html": {
+	  "head": [
+		"<!-- will be copied to the resulting head //-->"
+	  ],
+	  "body": [
+		"<!-- will be copied to the resulting body //-->",
+		"<!-- will also be copied to the resulting body //-->"
+	  ]
+	},
+	"background_color": "#231F20",
+	"background_filename": "",
+	"code_filename": "fad1861122192c55f29179ae152f6292.wasm",
+	"company_name": "SMJ",
+	"data_filename": "fa0be846ce5bee8cb441539e35bf1dd6.data",
+	"decompression_fallback": "Disabled",
+	"development_player": "false",
+	"framework_filename": "58d0d452a984a9f02e13f55ee1adc931.framework.js",
+	"height": "600",
+	"loader_filename": "7bf34013a7f7da6a58f8da3519c97c81.loader.js",
+	"memory_filename": "",
+	"product_name": "BoxEm",
+	"product_version": "0.0.45.1",
+	"splash_screen_style": "Dark",
+	"symbols_filename": "",
+	"unity_version": "2022.3.32f1",
+	"use_data_caching": "true",
+	"use_threads": "false",
+	"use_wasm": "true",
+	"use_webgl_1_0": "true",
+	"use_webgl_2_0": "true",
+	"width": "960"
+  }
